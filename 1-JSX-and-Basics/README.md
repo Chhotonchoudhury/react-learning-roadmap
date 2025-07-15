@@ -117,6 +117,10 @@ Close the topic — highlight what you mastered.
 ⬅️ **Previous:** [0 - Introduction](../README.md)  
 ➡️ **Next:** [2 - Folder Structure & Best Practices](../2-Folder-Structure)
 
+## 🔗 Navigation
+
+⬅️ [0 - Introduction](../0-Induction) | 1 - JSX & React Setup(CURRENT) | ➡️ [2 - Folder Structure & Best Practices](../2-Folder-Structures)
+
 ### ✍️ Author: Chhoton Choudhury
 
 📁 Part of my public React learning roadmap
